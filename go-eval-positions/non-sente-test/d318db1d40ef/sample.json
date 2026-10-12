@@ -1,0 +1,29 @@
+{
+  "source_sha256": "e064ded5bcb1fbd0ce0c6560939649e8ddcd09173c5a01c51373e681eaf1f2ea",
+  "move_number": 56,
+  "moves": {
+    "A": "P10",
+    "B": "S3"
+  },
+  "results": {
+    "X": {
+      "winrate": {
+        "A": 0.0630742889,
+        "B": 0.622768234
+      },
+      "score_lead": {
+        "A": -5.32574474,
+        "B": 1.82264193
+      }
+    }
+  },
+  "X_A_targets": [
+    {
+      "size": 2,
+      "stones": [
+        "P9",
+        "Q9"
+      ]
+    }
+  ]
+}

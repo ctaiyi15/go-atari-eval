@@ -1,0 +1,31 @@
+{
+  "source_sha256": "af6a0dc92aaa5933c9838eddc40131c7e9d4377228b4e92b5ff4ba0e025053c4",
+  "move_number": 146,
+  "moves": {
+    "A": "M6",
+    "B": "K9"
+  },
+  "results": {
+    "X": {
+      "winrate": {
+        "A": 0.228309785,
+        "B": 0.667596717
+      },
+      "score_lead": {
+        "A": -2.7314862,
+        "B": 4.97102809
+      }
+    }
+  },
+  "X_A_targets": [
+    {
+      "size": 4,
+      "stones": [
+        "M7",
+        "N7",
+        "N8",
+        "N9"
+      ]
+    }
+  ]
+}

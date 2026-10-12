@@ -1,0 +1,29 @@
+{
+  "source_sha256": "8c39fb5361cb21cb1a742a45403af124801ad902bd2a3b24ef3a8d050311bc4b",
+  "move_number": 82,
+  "moves": {
+    "A": "T8",
+    "B": "P14"
+  },
+  "results": {
+    "X": {
+      "winrate": {
+        "A": 0.020130451,
+        "B": 0.64909717
+      },
+      "score_lead": {
+        "A": -8.28042912,
+        "B": 1.68471709
+      }
+    }
+  },
+  "X_A_targets": [
+    {
+      "size": 2,
+      "stones": [
+        "S9",
+        "T9"
+      ]
+    }
+  ]
+}

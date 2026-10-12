@@ -1,0 +1,29 @@
+{
+  "source_sha256": "da5171a4cd7a59b0ffd3ec5c8b083cf49d019b118e15fe59e527a3fb0afb9af9",
+  "move_number": 126,
+  "moves": {
+    "A": "K11",
+    "B": "J6"
+  },
+  "results": {
+    "X": {
+      "winrate": {
+        "A": 0.0034723032,
+        "B": 0.443597003
+      },
+      "score_lead": {
+        "A": -32.8197258,
+        "B": -1.35322463
+      }
+    }
+  },
+  "X_A_targets": [
+    {
+      "size": 2,
+      "stones": [
+        "J11",
+        "J12"
+      ]
+    }
+  ]
+}

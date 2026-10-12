@@ -1,0 +1,29 @@
+{
+  "source_sha256": "cbda799edff2d56faf6e7715fd3d30beccd301799ef7a4d995f4da5282bbbfd3",
+  "move_number": 129,
+  "moves": {
+    "A": "M13",
+    "B": "Q1"
+  },
+  "results": {
+    "X": {
+      "winrate": {
+        "A": 0.0505563342,
+        "B": 0.650109268
+      },
+      "score_lead": {
+        "A": -7.77972554,
+        "B": 1.33794335
+      }
+    }
+  },
+  "X_A_targets": [
+    {
+      "size": 2,
+      "stones": [
+        "L12",
+        "L13"
+      ]
+    }
+  ]
+}

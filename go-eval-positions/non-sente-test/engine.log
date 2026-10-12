@@ -1,0 +1,62 @@
+2026-10-07 04:01:15+0000: Running with following config:
+analysisPVLen = 15
+cudaDeviceToUseThread0 = 0
+logToStderr = true
+maxVisits = 500
+nnCacheSizePowerOfTwo = 18
+nnMaxBatchSize = 8
+nnMutexPoolSizePowerOfTwo = 14
+numAnalysisThreads = 1
+numNNServerThreadsPerModel = 1
+numSearchThreads = 8
+reportAnalysisWinratesAs = BLACK
+
+2026-10-07 04:01:15+0000: Analysis Engine starting...
+2026-10-07 04:01:15+0000: KataGo v1.18.1
+2026-10-07 04:01:15+0000: nnRandSeed0 = 12601346579210002031
+2026-10-07 04:01:15+0000: After dedups: nnModelFile0 = /workspace/go-eval-positions/.local/katago/models/kata1-b18c384nbt-s9996604416-d4316597426.bin.gz useFP16 auto
+2026-10-07 04:01:15+0000: Initializing neural net buffer to be size 19 * 19 allowing smaller boards
+2026-10-07 04:01:16+0000: Found OpenCL Platform 0: NVIDIA CUDA (NVIDIA Corporation) (OpenCL 3.0 CUDA 13.0.98)
+2026-10-07 04:01:16+0000: Found 1 device(s) on platform 0 with type CPU or GPU or Accelerator
+2026-10-07 04:01:16+0000: Found OpenCL Device 0: NVIDIA GeForce RTX 4090 (NVIDIA Corporation) (score 11000300)
+2026-10-07 04:01:16+0000: Creating context for OpenCL Platform: NVIDIA CUDA (NVIDIA Corporation) (OpenCL 3.0 CUDA 13.0.98)
+2026-10-07 04:01:16+0000: Using OpenCL Device 0: NVIDIA GeForce RTX 4090 (NVIDIA Corporation) OpenCL 3.0 CUDA (Extensions: cl_khr_global_int32_base_atomics cl_khr_global_int32_extended_atomics cl_khr_local_int32_base_atomics cl_khr_local_int32_extended_atomics cl_khr_fp64 cl_khr_3d_image_writes cl_khr_byte_addressable_store cl_khr_icd cl_khr_gl_sharing cl_nv_compiler_options cl_nv_device_attribute_query cl_nv_pragma_unroll cl_nv_copy_opts cl_nv_create_buffer cl_khr_int64_base_atomics cl_khr_int64_extended_atomics cl_khr_device_uuid cl_khr_pci_bus_info cl_khr_external_semaphore cl_khr_external_memory cl_khr_external_semaphore_opaque_fd cl_khr_external_memory_opaque_fd cl_khr_semaphore)
+2026-10-07 04:01:16+0000: Loaded tuning parameters from: /root/.katago/opencltuning/tune13_gpuNVIDIAGeForceRTX4090_x19_y19_c384_mv14.txt
+2026-10-07 04:01:16+0000: OpenCL backend thread 0: Model version 14
+2026-10-07 04:01:16+0000: OpenCL backend thread 0: Model name: kata1-b18c384nbt-s9996604416-d4316597426 (nbt convnet, 26326985 params)
+2026-10-07 04:01:17+0000: OpenCL backend thread 0: FP16Storage true FP16Compute false FP16TensorCores true FP16TensorCoresFor1x1 true
+2026-10-07 04:01:17+0000: Loaded config /workspace/go-eval-positions/configs/katago-analysis.cfg
+2026-10-07 04:01:17+0000: Loaded model /workspace/go-eval-positions/.local/katago/models/kata1-b18c384nbt-s9996604416-d4316597426.bin.gz
+2026-10-07 04:01:17+0000: Analyzing up to 1 positions at a time in parallel
+2026-10-07 04:01:17+0000: Started, ready to begin handling requests
+2026-10-07 04:09:54+0000: Running with following config:
+analysisPVLen = 15
+cudaDeviceToUseThread0 = 0
+logToStderr = true
+maxVisits = 500
+nnCacheSizePowerOfTwo = 18
+nnMaxBatchSize = 8
+nnMutexPoolSizePowerOfTwo = 14
+numAnalysisThreads = 1
+numNNServerThreadsPerModel = 1
+numSearchThreads = 8
+reportAnalysisWinratesAs = BLACK
+
+2026-10-07 04:09:54+0000: Analysis Engine starting...
+2026-10-07 04:09:54+0000: KataGo v1.18.1
+2026-10-07 04:09:54+0000: nnRandSeed0 = 1625207909186479268
+2026-10-07 04:09:54+0000: After dedups: nnModelFile0 = /workspace/go-eval-positions/.local/katago/models/kata1-b18c384nbt-s9996604416-d4316597426.bin.gz useFP16 auto
+2026-10-07 04:09:54+0000: Initializing neural net buffer to be size 19 * 19 allowing smaller boards
+2026-10-07 04:09:55+0000: Found OpenCL Platform 0: NVIDIA CUDA (NVIDIA Corporation) (OpenCL 3.0 CUDA 13.0.98)
+2026-10-07 04:09:55+0000: Found 1 device(s) on platform 0 with type CPU or GPU or Accelerator
+2026-10-07 04:09:55+0000: Found OpenCL Device 0: NVIDIA GeForce RTX 4090 (NVIDIA Corporation) (score 11000300)
+2026-10-07 04:09:55+0000: Creating context for OpenCL Platform: NVIDIA CUDA (NVIDIA Corporation) (OpenCL 3.0 CUDA 13.0.98)
+2026-10-07 04:09:55+0000: Using OpenCL Device 0: NVIDIA GeForce RTX 4090 (NVIDIA Corporation) OpenCL 3.0 CUDA (Extensions: cl_khr_global_int32_base_atomics cl_khr_global_int32_extended_atomics cl_khr_local_int32_base_atomics cl_khr_local_int32_extended_atomics cl_khr_fp64 cl_khr_3d_image_writes cl_khr_byte_addressable_store cl_khr_icd cl_khr_gl_sharing cl_nv_compiler_options cl_nv_device_attribute_query cl_nv_pragma_unroll cl_nv_copy_opts cl_nv_create_buffer cl_khr_int64_base_atomics cl_khr_int64_extended_atomics cl_khr_device_uuid cl_khr_pci_bus_info cl_khr_external_semaphore cl_khr_external_memory cl_khr_external_semaphore_opaque_fd cl_khr_external_memory_opaque_fd cl_khr_semaphore)
+2026-10-07 04:09:55+0000: Loaded tuning parameters from: /root/.katago/opencltuning/tune13_gpuNVIDIAGeForceRTX4090_x19_y19_c384_mv14.txt
+2026-10-07 04:09:55+0000: OpenCL backend thread 0: Model version 14
+2026-10-07 04:09:55+0000: OpenCL backend thread 0: Model name: kata1-b18c384nbt-s9996604416-d4316597426 (nbt convnet, 26326985 params)
+2026-10-07 04:09:56+0000: OpenCL backend thread 0: FP16Storage true FP16Compute false FP16TensorCores true FP16TensorCoresFor1x1 true
+2026-10-07 04:09:56+0000: Loaded config /workspace/go-eval-positions/configs/katago-analysis.cfg
+2026-10-07 04:09:56+0000: Loaded model /workspace/go-eval-positions/.local/katago/models/kata1-b18c384nbt-s9996604416-d4316597426.bin.gz
+2026-10-07 04:09:56+0000: Analyzing up to 1 positions at a time in parallel
+2026-10-07 04:09:56+0000: Started, ready to begin handling requests

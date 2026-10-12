@@ -1,0 +1,29 @@
+{
+  "source_sha256": "c00ad94ee94da880b14de6da65d46e40fe234ed9fb72ba4f5210285652719e4a",
+  "move_number": 40,
+  "moves": {
+    "A": "S4",
+    "B": "Q12"
+  },
+  "results": {
+    "X": {
+      "winrate": {
+        "A": 0.185066196,
+        "B": 0.592486399
+      },
+      "score_lead": {
+        "A": -3.09053465,
+        "B": 1.28996834
+      }
+    }
+  },
+  "X_A_targets": [
+    {
+      "size": 2,
+      "stones": [
+        "R5",
+        "S5"
+      ]
+    }
+  ]
+}

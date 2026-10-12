@@ -1,0 +1,29 @@
+{
+  "source_sha256": "c73a02a8d3ce6f405e17428b6d031f51dbd73c4e830e0ad7405d032deef33d1a",
+  "move_number": 40,
+  "moves": {
+    "A": "S10",
+    "B": "P16"
+  },
+  "results": {
+    "X": {
+      "winrate": {
+        "A": 0.0185061969,
+        "B": 0.446172511
+      },
+      "score_lead": {
+        "A": -10.6552059,
+        "B": -0.198494201
+      }
+    }
+  },
+  "X_A_targets": [
+    {
+      "size": 2,
+      "stones": [
+        "R10",
+        "R11"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "source_sha256": "6c5f38feff1188f8919908a4f095c25b2a13dce493a716541ebf24cbe4c067e2",
+  "move_number": 92,
+  "moves": {
+    "A": "P16",
+    "B": "D9"
+  },
+  "results": {
+    "X": {
+      "winrate": {
+        "A": 0.00599386375,
+        "B": 0.369543786
+      },
+      "score_lead": {
+        "A": -11.9577915,
+        "B": -0.355616926
+      }
+    }
+  },
+  "X_A_targets": [
+    {
+      "size": 2,
+      "stones": [
+        "O16",
+        "O17"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "model": "/workspace/go-eval-positions/.local/katago/models/kata1-b18c384nbt-s9996604416-d4316597426.bin.gz",
+  "model_sha256": "9d7a6afed8ff5b74894727e156f04f0cd36060a24824892008fbb6e0cba51f1d",
+  "engine_binary": "/workspace/go-eval-positions/.local/katago/bin/squashfs-root/usr/bin/katago",
+  "engine_binary_sha256": "a81e10d68061c1e73f715b387b587ad3799f688363c8fb6545b73ed99a12ccb1",
+  "engine_config": "/workspace/go-eval-positions/configs/katago-analysis.cfg",
+  "engine_config_sha256": "3f9617d4c8ef6cdf80612250289f2e2f8e38457e2f7487841e724e3565a1c632",
+  "platform": "Linux-6.8.0-124-generic-x86_64-with-glibc2.39"
+}

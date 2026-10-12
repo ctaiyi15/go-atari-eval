@@ -1,0 +1,29 @@
+{
+  "source_sha256": "d80d13617ce5a3c78e208dd6cbfb99161d1620d8febd1ca975cbf7fccf3577c8",
+  "move_number": 135,
+  "moves": {
+    "A": "Q2",
+    "B": "L9"
+  },
+  "results": {
+    "X": {
+      "winrate": {
+        "A": 0.0122097275,
+        "B": 0.508360807
+      },
+      "score_lead": {
+        "A": -9.36342771,
+        "B": -0.330630741
+      }
+    }
+  },
+  "X_A_targets": [
+    {
+      "size": 2,
+      "stones": [
+        "R2",
+        "R3"
+      ]
+    }
+  ]
+}

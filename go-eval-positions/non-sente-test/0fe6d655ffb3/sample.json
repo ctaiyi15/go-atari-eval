@@ -1,0 +1,29 @@
+{
+  "source_sha256": "20f4e7cf8979acbe5bee3aa6581869043c006a68397fd55ce996009aefa7f034",
+  "move_number": 126,
+  "moves": {
+    "A": "R10",
+    "B": "M7"
+  },
+  "results": {
+    "X": {
+      "winrate": {
+        "A": 0.00877228692,
+        "B": 0.363131594
+      },
+      "score_lead": {
+        "A": -6.777635,
+        "B": -0.285794078
+      }
+    }
+  },
+  "X_A_targets": [
+    {
+      "size": 2,
+      "stones": [
+        "Q10",
+        "Q11"
+      ]
+    }
+  ]
+}

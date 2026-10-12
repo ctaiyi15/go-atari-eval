@@ -1,0 +1,29 @@
+{
+  "source_sha256": "6e3a6a25b874542c34b796f35f9f49c4ed9f2608f39879a3aecb427e1fca42fb",
+  "move_number": 83,
+  "moves": {
+    "A": "D18",
+    "B": "S8"
+  },
+  "results": {
+    "X": {
+      "winrate": {
+        "A": 0.0803514262,
+        "B": 0.615863304
+      },
+      "score_lead": {
+        "A": -7.83837107,
+        "B": 0.665968088
+      }
+    }
+  },
+  "X_A_targets": [
+    {
+      "size": 2,
+      "stones": [
+        "C17",
+        "C18"
+      ]
+    }
+  ]
+}

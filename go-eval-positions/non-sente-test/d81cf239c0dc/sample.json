@@ -1,0 +1,30 @@
+{
+  "source_sha256": "d54b5dc95bf2d635cc586aa989833ca0a13aea703fea1e995cc86144e317ef45",
+  "move_number": 97,
+  "moves": {
+    "A": "E2",
+    "B": "K7"
+  },
+  "results": {
+    "X": {
+      "winrate": {
+        "A": 0.0125767283,
+        "B": 0.41413222
+      },
+      "score_lead": {
+        "A": -11.3025951,
+        "B": -1.26081387
+      }
+    }
+  },
+  "X_A_targets": [
+    {
+      "size": 3,
+      "stones": [
+        "E3",
+        "E4",
+        "F3"
+      ]
+    }
+  ]
+}

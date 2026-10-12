@@ -1,0 +1,29 @@
+{
+  "source_sha256": "c328339db75bb9ce444d31aa35f129708e7e6c3b1e2798e4d5abcabd7dd721c5",
+  "move_number": 62,
+  "moves": {
+    "A": "G9",
+    "B": "E14"
+  },
+  "results": {
+    "X": {
+      "winrate": {
+        "A": 0.0780124666,
+        "B": 0.582612438
+      },
+      "score_lead": {
+        "A": -6.62342618,
+        "B": 1.1194152
+      }
+    }
+  },
+  "X_A_targets": [
+    {
+      "size": 2,
+      "stones": [
+        "H10",
+        "H9"
+      ]
+    }
+  ]
+}

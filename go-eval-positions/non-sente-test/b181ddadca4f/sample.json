@@ -1,0 +1,34 @@
+{
+  "source_sha256": "281a26a33b792a93a42b6b0ecaef36dcbad7e299db8a2b06c3a8b6da392a2379",
+  "move_number": 106,
+  "moves": {
+    "A": "P1",
+    "B": "O10"
+  },
+  "results": {
+    "X": {
+      "winrate": {
+        "A": 0.051902071,
+        "B": 0.405468369
+      },
+      "score_lead": {
+        "A": -9.14109585,
+        "B": -0.870401637
+      }
+    }
+  },
+  "X_A_targets": [
+    {
+      "size": 7,
+      "stones": [
+        "P2",
+        "P3",
+        "P4",
+        "P5",
+        "P6",
+        "Q6",
+        "Q7"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "source_sha256": "b10e622f05725a33be2aee5e3c63f078fb34a3bbb0cd994152558bc4eb377b18",
+  "move_number": 94,
+  "moves": {
+    "A": "G13",
+    "B": "N13"
+  },
+  "results": {
+    "X": {
+      "winrate": {
+        "A": 0.0556133419,
+        "B": 0.635399371
+      },
+      "score_lead": {
+        "A": -5.97561065,
+        "B": 1.83514344
+      }
+    }
+  },
+  "X_A_targets": [
+    {
+      "size": 3,
+      "stones": [
+        "E14",
+        "F13",
+        "F14"
+      ]
+    }
+  ]
+}

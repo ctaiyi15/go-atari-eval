@@ -1,0 +1,29 @@
+{
+  "source_sha256": "57d88ea8a21fe09bc0788be43bdb24692d1db7fec0882883aedd6f2302407811",
+  "move_number": 84,
+  "moves": {
+    "A": "E19",
+    "B": "F8"
+  },
+  "results": {
+    "X": {
+      "winrate": {
+        "A": 0.181943235,
+        "B": 0.533357931
+      },
+      "score_lead": {
+        "A": -3.77165098,
+        "B": 0.620655405
+      }
+    }
+  },
+  "X_A_targets": [
+    {
+      "size": 2,
+      "stones": [
+        "E17",
+        "E18"
+      ]
+    }
+  ]
+}

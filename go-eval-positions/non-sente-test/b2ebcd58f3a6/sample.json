@@ -1,0 +1,29 @@
+{
+  "source_sha256": "fa75cb96247766d208df2fb68aa21436221b4b2c8f2f54e4864dc5dbe7ef6c8a",
+  "move_number": 128,
+  "moves": {
+    "A": "N5",
+    "B": "F7"
+  },
+  "results": {
+    "X": {
+      "winrate": {
+        "A": 0.00281143227,
+        "B": 0.311837329
+      },
+      "score_lead": {
+        "A": -11.1350996,
+        "B": -0.638234453
+      }
+    }
+  },
+  "X_A_targets": [
+    {
+      "size": 2,
+      "stones": [
+        "O4",
+        "O5"
+      ]
+    }
+  ]
+}

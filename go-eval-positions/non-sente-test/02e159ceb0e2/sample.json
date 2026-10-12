@@ -1,0 +1,29 @@
+{
+  "source_sha256": "5ce3476eac1fb8fb0778bb9d750ec472e6dac70b4aac13bdef6365387e1d5e84",
+  "move_number": 50,
+  "moves": {
+    "A": "M2",
+    "B": "S2"
+  },
+  "results": {
+    "X": {
+      "winrate": {
+        "A": 0.00126877036,
+        "B": 0.451093622
+      },
+      "score_lead": {
+        "A": -25.4182532,
+        "B": -0.31618984
+      }
+    }
+  },
+  "X_A_targets": [
+    {
+      "size": 2,
+      "stones": [
+        "L2",
+        "L3"
+      ]
+    }
+  ]
+}

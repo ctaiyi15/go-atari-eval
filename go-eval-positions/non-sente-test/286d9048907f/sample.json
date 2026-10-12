@@ -1,0 +1,29 @@
+{
+  "source_sha256": "65f5ada687083ff48e6ebc10fa211e48dc3b6177d605db5f2d680800289cc1a4",
+  "move_number": 57,
+  "moves": {
+    "A": "Q1",
+    "B": "K12"
+  },
+  "results": {
+    "X": {
+      "winrate": {
+        "A": 0.0167626689,
+        "B": 0.459611325
+      },
+      "score_lead": {
+        "A": -12.2889723,
+        "B": -0.774872522
+      }
+    }
+  },
+  "X_A_targets": [
+    {
+      "size": 2,
+      "stones": [
+        "Q2",
+        "Q3"
+      ]
+    }
+  ]
+}

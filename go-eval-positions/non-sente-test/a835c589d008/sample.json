@@ -1,0 +1,29 @@
+{
+  "source_sha256": "42b2986dd91c0d567c5e23444239cfd3cdf9bef5d7d5412e45473d09925ae1db",
+  "move_number": 148,
+  "moves": {
+    "A": "G4",
+    "B": "C14"
+  },
+  "results": {
+    "X": {
+      "winrate": {
+        "A": 0.00149991851,
+        "B": 0.341774416
+      },
+      "score_lead": {
+        "A": -24.6021738,
+        "B": -0.16173093
+      }
+    }
+  },
+  "X_A_targets": [
+    {
+      "size": 2,
+      "stones": [
+        "F4",
+        "F5"
+      ]
+    }
+  ]
+}

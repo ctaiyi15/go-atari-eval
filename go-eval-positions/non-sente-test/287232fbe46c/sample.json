@@ -1,0 +1,29 @@
+{
+  "source_sha256": "d65d28725d7969f08cc2b02015522f6c90bdda58016efdd8aa15414de7dec857",
+  "move_number": 118,
+  "moves": {
+    "A": "K3",
+    "B": "O8"
+  },
+  "results": {
+    "X": {
+      "winrate": {
+        "A": 0.0120650708,
+        "B": 0.448511516
+      },
+      "score_lead": {
+        "A": -10.8389401,
+        "B": -0.357601085
+      }
+    }
+  },
+  "X_A_targets": [
+    {
+      "size": 2,
+      "stones": [
+        "L3",
+        "L4"
+      ]
+    }
+  ]
+}

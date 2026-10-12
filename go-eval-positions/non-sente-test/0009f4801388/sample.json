@@ -1,0 +1,30 @@
+{
+  "source_sha256": "55efdb0dcfc0a226d13c1c6ec70178b3da7a5d6ab76569df4321dd536ba073cd",
+  "move_number": 93,
+  "moves": {
+    "A": "H15",
+    "B": "Q8"
+  },
+  "results": {
+    "X": {
+      "winrate": {
+        "A": 0.0247991333,
+        "B": 0.644109813
+      },
+      "score_lead": {
+        "A": -8.62004839,
+        "B": 1.09800062
+      }
+    }
+  },
+  "X_A_targets": [
+    {
+      "size": 3,
+      "stones": [
+        "F16",
+        "G16",
+        "H16"
+      ]
+    }
+  ]
+}

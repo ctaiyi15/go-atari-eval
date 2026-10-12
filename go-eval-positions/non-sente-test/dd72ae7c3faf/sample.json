@@ -1,0 +1,29 @@
+{
+  "source_sha256": "b3db0da04622e688239b7e3611bafe5c721c18bc4fc14a09da0d7bbd317eade9",
+  "move_number": 62,
+  "moves": {
+    "A": "N11",
+    "B": "P4"
+  },
+  "results": {
+    "X": {
+      "winrate": {
+        "A": 0.0251646378,
+        "B": 0.468613647
+      },
+      "score_lead": {
+        "A": -8.57570712,
+        "B": 0.117510181
+      }
+    }
+  },
+  "X_A_targets": [
+    {
+      "size": 2,
+      "stones": [
+        "L11",
+        "M11"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "source_sha256": "c718b1bbd9ca941c309cab13e85848798bc3c634e00ba7e76219e38dec523a2f",
+  "move_number": 84,
+  "moves": {
+    "A": "Q7",
+    "B": "S8"
+  },
+  "results": {
+    "X": {
+      "winrate": {
+        "A": 0.162156768,
+        "B": 0.587875842
+      },
+      "score_lead": {
+        "A": -4.20611231,
+        "B": 1.62938181
+      }
+    }
+  },
+  "X_A_targets": [
+    {
+      "size": 2,
+      "stones": [
+        "P6",
+        "P7"
+      ]
+    }
+  ]
+}

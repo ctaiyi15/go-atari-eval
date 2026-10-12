@@ -1,0 +1,29 @@
+{
+  "source_sha256": "068e3ab908ec894c8a9148e1c858a8b493445b0d1b675be364ca12cdb00cab1e",
+  "move_number": 130,
+  "moves": {
+    "A": "Q14",
+    "B": "K6"
+  },
+  "results": {
+    "X": {
+      "winrate": {
+        "A": 0.00416012727,
+        "B": 0.657288164
+      },
+      "score_lead": {
+        "A": -27.8805861,
+        "B": 1.82507843
+      }
+    }
+  },
+  "X_A_targets": [
+    {
+      "size": 2,
+      "stones": [
+        "Q15",
+        "Q16"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "source_sha256": "0ad78c40de04fe74b5250cf8c9a144cc0816055fcac2266722d50b0db9fbc743",
+  "move_number": 97,
+  "moves": {
+    "A": "S5",
+    "B": "C15"
+  },
+  "results": {
+    "X": {
+      "winrate": {
+        "A": 0.0620287073,
+        "B": 0.447906311
+      },
+      "score_lead": {
+        "A": -10.3429502,
+        "B": -0.794846307
+      }
+    }
+  },
+  "X_A_targets": [
+    {
+      "size": 3,
+      "stones": [
+        "S4",
+        "T3",
+        "T4"
+      ]
+    }
+  ]
+}

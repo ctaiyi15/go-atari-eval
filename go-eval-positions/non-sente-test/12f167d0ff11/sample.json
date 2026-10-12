@@ -1,0 +1,29 @@
+{
+  "source_sha256": "ad532b64f713de3bba1dfaf4988472b75f49b7ee5c369e0b4620d79a879ae585",
+  "move_number": 75,
+  "moves": {
+    "A": "K12",
+    "B": "M16"
+  },
+  "results": {
+    "X": {
+      "winrate": {
+        "A": 0.0529195791,
+        "B": 0.523662455
+      },
+      "score_lead": {
+        "A": -6.59469237,
+        "B": -0.100751223
+      }
+    }
+  },
+  "X_A_targets": [
+    {
+      "size": 2,
+      "stones": [
+        "L11",
+        "L12"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "source_sha256": "c40c40cd7815bd9f46f2430ec18ba522c9b84a4c833c07910a5afd7434f4c51b",
+  "move_number": 24,
+  "moves": {
+    "A": "S4",
+    "B": "P9"
+  },
+  "results": {
+    "X": {
+      "winrate": {
+        "A": 0.0477599206,
+        "B": 0.334551616
+      },
+      "score_lead": {
+        "A": -7.09795141,
+        "B": -1.4194134
+      }
+    }
+  },
+  "X_A_targets": [
+    {
+      "size": 2,
+      "stones": [
+        "R3",
+        "S3"
+      ]
+    }
+  ]
+}
