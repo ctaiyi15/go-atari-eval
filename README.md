@@ -1,6 +1,6 @@
-# The Role of Domain Terminology in Game-Playing Language Models: A Study in Go
+# Recognizing Atari and Assessing Sente: Controlled Evaluation Tasks for Language-Based Go Agents
 
-This repository contains the datasets and code for the paper, *The Role of Domain Terminology in Game-Playing Language Models: A Study in Go*.
+This repository contains the datasets and code for the paper, *Recognizing Atari and Assessing Sente: Controlled Evaluation Tasks for Language-Based Go Agents*.
 
 
 ## Installation
@@ -18,6 +18,13 @@ A CUDA-compatible GPU is required for model training and inference.
 The `data/` directory contains the training, validation, and test datasets.
 
 Each training example consists of a Go board position, move history, candidate move, and target output containing Go terminology and associated annotations.
+
+To obtain the dataset:
+```bash
+python scripts/preprocessing/download.py
+python scripts/preprocessing/extract.py
+python scripts/preprocessing/add_winrates.py
+```
 
 ## Training
 

@@ -12,8 +12,8 @@ from trl import SFTConfig, SFTTrainer
 
 BASE_MODEL = "YichuanMa/LoGos-7B"
 
-TRAIN_FILE = "data/train.json"
-VAL_FILE = "data/val.json"
+TRAIN_FILE = "data/final/logo_format/train.json"
+VAL_FILE = "data/final/logo_format/val.json"
 OUTPUT_DIR = "outputs/logo-qlora"
 
 MAX_LENGTH = 3072
